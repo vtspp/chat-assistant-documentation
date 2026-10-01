@@ -1,0 +1,95 @@
+CHATASSISTANTX END USER LICENSE AGREEMENT
+
+Effective date: September 12, 2026
+
+This End User License Agreement ("Agreement") is between Developing Future & Solutions
+("Licensor") and the individual or legal entity that installs or uses ChatAssistantX
+("You"). By installing or using ChatAssistantX, You accept this Agreement.
+
+1. LICENSE GRANT
+
+Subject to this Agreement, Licensor grants You a limited, non-exclusive,
+non-transferable, non-sublicensable, revocable license to install and use ChatAssistantX
+with compatible JetBrains products for Your personal or internal business purposes.
+
+2. RESTRICTIONS
+
+Except where applicable law expressly permits otherwise, You may not sell, sublicense,
+rent, lease, redistribute, reverse engineer, decompile, disassemble, circumvent technical
+restrictions in, or create derivative works from ChatAssistantX. You may not use the
+plugin to violate law, third-party rights, service terms, or security controls.
+
+3. THIRD-PARTY SOFTWARE AND SERVICES
+
+ChatAssistantX contains or uses third-party software identified in
+THIRD_PARTY_NOTICES.md. Those components remain governed by their respective licenses.
+The plugin can connect to Codex CLI, OpenAI services, JetBrains products, and endpoints
+configured by You. Those products and services are supplied by their respective owners
+under separate terms. Licensor does not grant rights to them and is not responsible for
+their availability, pricing, output, or data practices.
+
+4. USER CONTENT AND RESPONSIBILITY
+
+You retain Your rights in prompts, source code, files, images, and other content You
+provide. You are responsible for ensuring that You have the right to process and transmit
+that content and for reviewing generated text, commands, patches, and other output before
+relying on it. AI-generated output may be inaccurate, incomplete, or unsafe.
+
+5. PRIVACY
+
+Processing performed by ChatAssistantX is described in PRIVACY.md. By using an external
+provider, You authorize transmission of the content selected for that provider according
+to its terms and privacy policy.
+
+6. OWNERSHIP
+
+ChatAssistantX is licensed, not sold. Licensor and its licensors retain all rights,
+title, and interest in the plugin not expressly granted by this Agreement. No right to
+use the names, logos, or trademarks of Licensor or any third party is granted.
+
+7. UPDATES AND AVAILABILITY
+
+Licensor may provide, change, suspend, or discontinue updates or functionality. An update
+may require a supported JetBrains product, Codex CLI version, provider account, or network
+connection.
+
+8. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CHATASSISTANTX IS PROVIDED "AS IS" AND "AS
+AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY,
+RELIABILITY, OR UNINTERRUPTED OPERATION. SOME JURISDICTIONS DO NOT ALLOW CERTAIN
+DISCLAIMERS, SO THEY MAY NOT APPLY TO YOU.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA,
+CODE, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING FROM OR RELATED TO THE PLUGIN. WHERE
+LIABILITY CANNOT BE EXCLUDED, LICENSOR'S AGGREGATE LIABILITY WILL NOT EXCEED THE AMOUNT
+YOU PAID FOR THE PLUGIN DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE
+CLAIM. NOTHING IN THIS AGREEMENT EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+10. TERMINATION
+
+This Agreement terminates automatically if You materially breach it. Upon termination,
+You must stop using and uninstall the plugin. Sections intended by their nature to survive
+termination will survive.
+
+11. JETBRAINS
+
+JetBrains s.r.o. and its affiliates are not parties to this Agreement, do not license
+ChatAssistantX, and have no obligation to provide support, maintenance, warranties, or
+remedies for it. Your use of JetBrains products remains subject to JetBrains' terms.
+
+12. CHANGES TO THIS AGREEMENT
+
+Licensor may update this Agreement for future releases. The applicable version will be
+made available with the plugin or its Marketplace listing. Continued use after an update
+becomes effective constitutes acceptance where permitted by law.
+
+13. CONTACT
+
+Developing Future & Solutions
+Email: vtsppinho@gmail.com
+Website: https://github.com/vtspp
